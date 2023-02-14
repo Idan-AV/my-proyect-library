@@ -1,1 +1,1 @@
-# my-proyect-library
+# my-project-library
